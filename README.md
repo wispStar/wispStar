@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"><img src="https://profile-counter.glitch.me/wispStar/count.svg" alt="wispStar :: Visitor's Count" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=wispStar&count_private=true&show_icons=true&theme=tokyonight&locale=cn" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wispStar&layout=donut&theme=tokyonight&hide_title=true&exclude_repo=banner&hide=pascal,pawn,assembly&locale=cn" />
+</a>
+
+<br/>
